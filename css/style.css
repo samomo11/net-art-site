@@ -1,0 +1,229 @@
+@import url("https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap");
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.app-page {
+  background-color: #049f91;
+}
+
+.fruit-page {
+  background-color: #704327;
+  cursor: url("../img/sword.webp"), auto;
+}
+
+.jetpack-page {
+  background-color: #5d6683;
+}
+
+.rope-page {
+  background-color: #f6c780;
+}
+
+.surfers-page {
+  background-color: #02e2ff;
+}
+
+.birds-page {
+  background-color: #48eb9c;
+}
+
+.bird-second-page {
+  background-color: #48eb9c;
+}
+
+.water-page {
+  background-color: #7059a4;
+}
+
+#lock {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  transition: transform 2s;
+}
+
+#lock:hover {
+  transform: rotate(45deg);
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+  margin: 42px 0px 42px 0px;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  position: relative;
+}
+
+#pom-one {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+
+#bomb-one {
+  position: absolute;
+  left: 30%;
+  top: 5%;
+}
+
+#pine-one {
+  position: absolute;
+  left: 55%;
+  top: 5%;
+}
+
+#st .apps {
+  transform: 0.2s;
+  transition: smooth;
+}
+
+.apps:hover {
+  transform: scale(1.1);
+  transition: smooth;
+}
+
+p {
+  font-family: "Stalinist One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+}
+
+#guy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 50%;
+  width: 600px;
+  height: auto;
+}
+#guy:hover {
+  transform: scale(0.9);
+  transition: smooth;
+}
+
+h2 {
+  font-family: "Stalinist One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  text-align: center;
+  margin: 30px;
+}
+
+.second-fruit-page {
+  background-color: #704327;
+}
+
+h1 {
+  font-family: "Stalinist One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 75px;
+  text-align: center;
+  margin: 200px auto 0px auto;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Stalinist One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#pom {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  align-items: center;
+}
+
+#plane {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#plane:hover {
+  transform: rotate(45deg);
+}
+
+#baseball {
+  font-size: 20px;
+  margin-top: 80px;
+}
+
+#denver {
+  margin-top: 20px;
+}
+
+#birds {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 200px;
+  width: 500px;
+}
+
+#birds:hover {
+  transform: scale(1.2);
+  transition: smooth;
+}
+
+#birdgame {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 50px;
+  width: 500px;
+}
+
+.alligators {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#ropeicons {
+  display: flex;
+  justify-content: center;
+}
+
+#brotherandi {
+  margin-top: 200px;
+}
+
+#swampy {
+  margin-top: 50px;
+}
+
+#cranky {
+  margin-top: 50px;
+}
+
+#angrysiblings {
+  margin-top: 90px;
+}
